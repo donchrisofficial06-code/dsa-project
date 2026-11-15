@@ -1,0 +1,114 @@
+STUDENT RECORD SEARCH SYSTEM — DSA CLA-2
+Records loaded: 40 | Hash table size: 53
+Linear-probing insertion collisions: 0
+
+SUCCESSFUL SEARCH — ID 1025
+BST : Found Don, CGPA 8.50
+AVL : Found Don, CGPA 8.50
+Hash: Found Don, CGPA 8.50
+Comparisons / slots checked: BST=25, AVL=6, Hash=1
+
+UNSUCCESSFUL SEARCH — ID 1099
+BST : Not found
+AVL : Not found
+Hash: Not found
+Comparisons / slots checked: BST=40, AVL=6, Hash=1
+
+INSERTION TEST: Added ID 1041, NewStudent, CGPA 8.75
+
+VERIFY INSERTION — ID 1041
+BST : Found NewStudent, CGPA 8.75
+AVL : Found NewStudent, CGPA 8.75
+Hash: Found NewStudent, CGPA 8.75
+Comparisons / slots checked: BST=41, AVL=6, Hash=1
+
+BST INORDER TRAVERSAL
+1001   Aarav        8.10
+1002   Diya         8.70
+1003   Kavin        7.90
+1004   Meera        9.00
+1005   Arjun        8.30
+1006   Nila         8.50
+1007   Rahul        7.80
+1008   Isha         9.10
+1009   Vikram       8.00
+1010   Ananya       8.80
+1011   Pranav       7.70
+1012   Kavya        8.90
+1013   Sanjay       8.20
+1014   Riya         9.20
+1015   Hari         7.60
+1016   Janani       8.40
+1017   Surya        8.60
+1018   Aditi        9.00
+1019   Manoj        7.90
+1020   Pooja        8.70
+1021   Naveen       8.10
+1022   Keerthi      8.80
+1023   Ajay         7.50
+1024   Divya        9.10
+1025   Don          8.50
+1026   Sathya       8.00
+1027   Varun        8.40
+1028   Priya        9.30
+1029   Karthik      7.80
+1030   Swetha       8.60
+1031   Mithun       7.90
+1032   Lavanya      8.90
+1033   Gokul        8.20
+1034   Harini       9.00
+1035   Dinesh       7.70
+1036   Nithya       8.50
+1037   Rohan        8.30
+1038   Sahana       9.20
+1039   Bala         7.60
+1040   Akhila       8.80
+1041   NewStudent   8.75
+
+AVL INORDER TRAVERSAL
+1001   Aarav        8.10
+1002   Diya         8.70
+1003   Kavin        7.90
+1004   Meera        9.00
+1005   Arjun        8.30
+1006   Nila         8.50
+1007   Rahul        7.80
+1008   Isha         9.10
+1009   Vikram       8.00
+1010   Ananya       8.80
+1011   Pranav       7.70
+1012   Kavya        8.90
+1013   Sanjay       8.20
+1014   Riya         9.20
+1015   Hari         7.60
+1016   Janani       8.40
+1017   Surya        8.60
+1018   Aditi        9.00
+1019   Manoj        7.90
+1020   Pooja        8.70
+1021   Naveen       8.10
+1022   Keerthi      8.80
+1023   Ajay         7.50
+1024   Divya        9.10
+1025   Don          8.50
+1026   Sathya       8.00
+1027   Varun        8.40
+1028   Priya        9.30
+1029   Karthik      7.80
+1030   Swetha       8.60
+1031   Mithun       7.90
+1032   Lavanya      8.90
+1033   Gokul        8.20
+1034   Harini       9.00
+1035   Dinesh       7.70
+1036   Nithya       8.50
+1037   Rohan        8.30
+1038   Sahana       9.20
+1039   Bala         7.60
+1040   Akhila       8.80
+1041   NewStudent   8.75
+
+Tree height in levels: BST=1, AVL=6
+
+Interactive search (enter 0 to exit)
+Enter student ID: 
